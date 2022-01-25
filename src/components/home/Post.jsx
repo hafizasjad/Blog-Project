@@ -29,12 +29,12 @@ const useStyle = makeStyles({
         fontSize: '14px',
     },
     heading:{
-        fontSize: '14px',
+        fontSize: '16px',
         fontWeight: "600",
     },
     detail:{
         fontSize: '14px',
-        wordBreak: 'break-word'
+        wordBreak: 'break-word',
     }
 })
 

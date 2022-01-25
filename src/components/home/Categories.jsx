@@ -13,8 +13,10 @@ const useStyles = makeStyles({
         border: 10,
         borderRadius:5,
         padding : 10
+        
     },
     table: {
+        fontFamily: "sans-serif",
         border: '1px solid rgba(224, 224, 224, 1)'
     },
 })

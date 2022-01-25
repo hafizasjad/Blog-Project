@@ -17,11 +17,13 @@ const useStyles = makeStyles({
         justifyContent: 'center',
         '& :first-child':{
             fontSize: '4rem',
+            fontFamily: "sans-serif",
             color:'#FFFFFF',
             lineHeight: 1
         },
         '& :last-child':{
             fontSize: '2rem',
+            fontFamily: "sans-serif",
             color:'#FFFFFF'
         },
     },
